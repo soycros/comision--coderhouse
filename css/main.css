@@ -1,0 +1,109 @@
+body{
+    background-color: #1e202c;
+    width: auto;
+    height: auto;
+}
+header{
+    text-align: center;
+}
+header nav{
+    display: inline;
+    text-align: center;
+    
+}
+header nav ul{
+
+    text-decoration: none;
+    margin-top: 40px;
+
+}
+header nav ul li{
+    display:inline
+    
+}
+header nav ul li a{
+    background-color: black;
+    padding: 20px;
+    margin-left: 90px;
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+}
+
+.imagen2{
+    text-align: center;
+    width: auto;
+    position: relative;
+    margin-top: 50px;
+}
+.texto12{
+    margin-left: 70px;
+    margin-right: 1100px;
+    position: absolute;
+    text-align: center;
+    bottom: -16px;
+    color: white;
+}
+#contador{
+    font-size: 2500%;
+    text-align: center;
+    margin-top: 5px;
+}
+#textoexplicacion{
+    margin-top: -400px;
+}
+
+.banner{
+    text-align: center;
+    width: auto;
+    position: relative;
+    margin-top: 50px;
+}
+
+main h1{
+    font-size: 420%;
+    text-align: center;
+    color: white;
+}
+
+main h2{
+    color: white;
+    text-align: center;
+}
+main h2 a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: grid;
+    margin-top: 20px;
+}
+#texto1{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+main h2 iframe{
+    background-color: black;
+    text-align: center;
+    height: 400px;
+}
+main h3{
+    text-align: center;
+}
+main p{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+img{
+    width: fit-content;
+}
+footer{
+    font-size: large;
+    margin-top: 70px;
+    margin-bottom: 35px;
+    text-align: center;
+    color: white;
+}
+
+
